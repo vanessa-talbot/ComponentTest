@@ -1,0 +1,17 @@
+# Ignore invisible files/folders except .gitignore
+.*
+!.gitignore
+
+# Ignore data files
+Data/
+
+# Ignore derived data
+DerivedData/
+
+# Ignore user preferences
+userPreferences.*
+Preferences/
+Settings/
+
+# Ignore Trash
+Project/Trash/
