@@ -1,6 +1,6 @@
 <!-- getWeekday ( Date ) -> String
 returns the day of the week for Date -->
-[Go to Back](README.md)
+[Go to Back](../../README.md)
 
 ## Description
 
