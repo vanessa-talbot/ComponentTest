@@ -1,5 +1,6 @@
 <!-- getEndOfMonth ( Date ) -> Date
 returns date of the last day of the month -->
+[Go to Back](../../README.md)
 
 ## Description
 The method returns the date of the first day of the month.
