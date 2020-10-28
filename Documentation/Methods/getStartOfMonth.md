@@ -1,5 +1,6 @@
 <!-- getStartOfMonth ( Date ) -> Date
  returns date of the first day of the month -->
+[Go to Back](../../README.md)
 
 ## Description
 
