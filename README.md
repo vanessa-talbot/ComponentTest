@@ -10,4 +10,4 @@ Several methods are available:
 
 [getStartOfMonth](./Documentation/Methods/getStartOfMonth.md)
 
-[getEndOfMonth](./Documentation/getEndOfMonth.md)
+[getEndOfMonth](./Documentation/Methods/getEndOfMonth.md)
