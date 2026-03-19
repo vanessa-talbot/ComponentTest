@@ -2,8 +2,10 @@
 returns the day of the week for Date -->
 [Go to Back](../../README.md)
 
-<a name="top"></a>
-<a class="top-link" href="#top" style="display: inline-flex;">↑</a>
+<div id="top"></div>
+<a class="top-link" href="#top" style="display: inline-flex; position: fixed; bottom: 0; right: 0;">
+  ↑
+</a>
 
 ## Description
 
