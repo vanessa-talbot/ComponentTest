@@ -2,6 +2,9 @@
 returns the day of the week for Date -->
 [Go to Back](../../README.md)
 
+<a name="top"></a>
+<a class="top-link" href="#top" style="display: inline-flex;">↑</a>
+
 ## Description
 
 The method returns the day of the week (as a string) for the value in aDate.
@@ -22,3 +25,48 @@ The following example returns the day of the week of the current day:
 ```4d
 $text:=getWeekday (Current date)
 ```
+
+
+
+
+
+
+
+
+fff
+
+
+
+
+fff
+
+
+
+ff
+
+
+fff
+
+
+
+
+ff
+
+
+fff
+
+f
+
+
+ff
+
+
+fff
+
+
+
+fff
+
+
+fff
+
