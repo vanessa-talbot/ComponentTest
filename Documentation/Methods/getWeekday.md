@@ -3,7 +3,7 @@ returns the day of the week for Date -->
 [Go to Back](../../README.md)
 
 <div id="top"></div>
-<a class="top-link" href="#top" style="display: inline-flex; position: fixed; bottom: 0; right: 0;">
+<a class="top-link" href="#top" style="display: inline-flex; position: fixed; bottom: 2; right: 2;">
   ↑ Top
 </a>
 
