@@ -4,7 +4,7 @@ returns the day of the week for Date -->
 
 <div id="top"></div>
 <a class="top-link" href="#top" style="display: inline-flex; position: fixed; bottom: 2; right: 2;">
-  ↑ Top
+  ↑ Top  
 </a>
 
 ## Description
